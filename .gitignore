@@ -1,6 +1,5 @@
 .venv/
-.ebextensions
-eshop/.env
+
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
